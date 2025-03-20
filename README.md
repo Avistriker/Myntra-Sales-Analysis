@@ -6,17 +6,25 @@ This project focuses on analyzing Myntra's sales data using Python. The goal is 
 
 
 *Features:*
+
 Data cleaning and preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Visualization of key business metrics
+
 Insights generation for decision-making
 
 
 
 *Tech Stack Used:*
+
 Programming Language: Python
+
 Data Analysis Libraries: Pandas, NumPy
+
 Data Visualization: Matplotlib, Seaborn
+
 Jupyter Notebook for interactive analysis
 
 
